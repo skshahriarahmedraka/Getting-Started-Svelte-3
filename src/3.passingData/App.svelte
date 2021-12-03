@@ -2,7 +2,7 @@
     
     // your script goes here
 
-import A1 from "../1.incrementDecrement.svelte";
+import A1 from "../1.incrementDecrement/App.svelte";
 import Snd from "./Snd.svelte";
 
 let count =12

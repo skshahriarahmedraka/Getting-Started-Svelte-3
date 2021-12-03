@@ -3,8 +3,8 @@
     import Login from "./login.svelte"
     import Dashboard from "./dashboard.svelte";
     import {fade ,fly,scale ,slide} from "svelte/transition"
-import A1 from "../1.incrementDecrement.svelte";
-import A2 from "../2.reactivity.svelte";
+import A1 from "../1.incrementDecrement/App.svelte";
+import A2 from "../2.reactivity/App.svelte";
 
     let user ={
         name:"sk shahriar ahmed raka",
